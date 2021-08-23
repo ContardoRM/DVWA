@@ -1,5 +1,4 @@
-node {
-    agent { label 'slave' }
+node ('slave') {
     stage('Clonacion Repositorio') {
         git branch: 'master',
             credentialsId: 'githubssh',
