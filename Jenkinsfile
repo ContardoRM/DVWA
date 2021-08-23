@@ -1,4 +1,4 @@
-pipeline {
+node {
     agent { label 'slave' }
     stage('Clonacion Repositorio') {
         git branch: 'master',
