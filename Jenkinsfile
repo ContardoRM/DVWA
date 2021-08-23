@@ -1,4 +1,4 @@
-node {
+node slave {
     stage('Clonacion Repositorio') {
         git branch: 'master',
             credentialsId: 'githubssh',
