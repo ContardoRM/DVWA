@@ -1,7 +1,7 @@
 node {
     stage('Clonacion Repositorio') {
-        sh 'ls -ltrh'
-        sh 'pwd'
+        sh 'git clone git@github.com:ContardoRM/DVWA.git'
+        sh 'pwd && ls -ltrh'
     }
     stage('Test Unitarios') {
         sh 'echo "Tests passed Hola mundo"'
