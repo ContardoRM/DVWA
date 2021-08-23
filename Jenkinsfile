@@ -1,4 +1,5 @@
-node slave {
+pipeline {
+    agent slave
     stage('Clonacion Repositorio') {
         git branch: 'master',
             credentialsId: 'githubssh',
