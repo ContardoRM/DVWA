@@ -2,7 +2,7 @@ node {
     stage('Clonacion Repositorio') {
         git branch: 'master',
             credentialsId: 'githubssh',
-            url: 'ssh://git@github.com:ContardoRM/DVWA.git'
+            url: 'git@github.com:ContardoRM/DVWA.git'
 
         sh "ls -lat"
         
