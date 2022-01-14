@@ -1,0 +1,57 @@
+
+ ids_caching_session::getinstance_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpb b(&"1*¸
+2_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpf f(K~|
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpf% f(J
+%2"ids_caching_sessionª
+§
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpf% f(J
+%3" ids_caching_session::__construct*
+
+%2*	
+
+$type*	
+
+$initŸ
+œ
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpf f(J+
+ids_caching_session"
+$cachingInstance"__id*
+
+%2*
+3*ú
+3_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpi i(&Ÿ
+œ
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpi i(%
+%4"__id*-*+
+ids_caching_session"
+$cachingInstance
+}
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpi i(&
+%5object"__id*
+
+%4"q
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpi i(&
+
+%5object*Ž
+1_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpe e(#Ÿ
+œ
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Session.phpe e(#
+%1"__id*-*+
+ids_caching_session"
+$cachingInstance*
+2
+3:
+$type:
+$initB
+ids_caching_session

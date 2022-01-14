@@ -1,0 +1,55 @@
+
+&htmlpurifier_config::loadarrayfromformz
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.phpž ž(,"1*Ÿ
+1z
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.phpŸ Ÿ(e‰
+†
+z
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.phpŸ Ÿ(d
+%1")htmlpurifier_config::preparearrayfromform*"
+htmlpurifier_config*
+
+
+$array*
+
+
+$index*
+
+
+$allowed*
+	
+$mq_fix*
+	
+$schema•
+’
+z
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.phpŸ Ÿ(d
+$ret"__id*
+
+%1Ò
+Ï
+z
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.php   (<
+%2"htmlpurifier_config::create*"
+htmlpurifier_config*
+
+$ret*
+	
+$schema˜
+•
+z
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.php   (<	
+$config"__id*
+
+%2"‰
+z
+n/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Config.php¡ ¡(
+	
+$config:
+$array:
+$index:
+
+$allowed:	
+$mq_fix:	
+$schemaB
+htmlpurifier_config

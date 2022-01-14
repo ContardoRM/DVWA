@@ -1,0 +1,42 @@
+
+1htmlpurifier_attrtransform_enumtocss::__construct‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php ("1*¸
+2
+EnumToCSS.php"¡
+‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php# #(
+implicit return*å
+1‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php   (Ò
+Ï
+‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php   (0&
+$htmlpurifier_attrtransform_enumtocss"
+attr"__id*	
+
+$attrÞ
+Û
+‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php! !('5&
+$htmlpurifier_attrtransform_enumtocss"
+	enumToCSS"__id*
+
+$enum_to_css½
+º
+‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php" "(5
+%1"__sanitizing_cast*
+
+$case_sensitiveØ
+Õ
+‰
+/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php" "(59&
+$htmlpurifier_attrtransform_enumtocss"
+caseSensitive"__id*
+
+%1*
+2:
+$attr:
+$enum_to_css:
+$case_sensitiveB(&
+$htmlpurifier_attrtransform_enumtocss

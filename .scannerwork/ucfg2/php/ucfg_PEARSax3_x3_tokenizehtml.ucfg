@@ -1,0 +1,96 @@
+
+)htmlpurifier_lexer_pearsax3::tokenizehtml€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php ( "1*¬
+1€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php   ( ”‘
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php   (
+%1"$Array¿
+¼
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php   ()
+htmlpurifier_lexer_pearsax3"
+tokens"__id*
+
+%1àÝ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php" "(>
+%2*
+htmlpurifier_lexer_pearsax3*
+	
+$string*
+	
+$config*
+
+
+$context2	normalizeŸ
+œ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php" "(>	
+$string"__id*
+
+%2Ÿœ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php$ $($	
+$parser"xml_htmlsax3´
+±
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php$ $($
+%3"xml_htmlsax3::__construct*
+	
+$parserÆÃ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php% %("
+%4*
+	
+$parser*
+htmlpurifier_lexer_pearsax32
+set_objectÑÎ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php& &(B
+%5*
+	
+$parser*
+openHandler*
+closeHandler2set_element_handler¼¹
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php' '(0
+%6*
+	
+$parser*
+dataHandler2set_data_handlerÀ½
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php( ((4
+%7*
+	
+$parser*
+escapeHandler2set_escape_handlerËÈ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php+ +(<
+%8*
+	
+$parser*
+XML_OPTION_ENTITIES_PARSED*22
+set_option­ª
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php- -(
+%9*
+	
+$parser*
+	
+$string2parseÀ
+½
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php/ /(
+%10"__id*+*)
+htmlpurifier_lexer_pearsax3"
+tokens"Œ
+€
+v/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php/ /(
+
+%10:	
+$string:	
+$config:
+
+$contextB
+htmlpurifier_lexer_pearsax3

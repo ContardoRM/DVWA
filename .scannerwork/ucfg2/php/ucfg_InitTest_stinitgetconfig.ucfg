@@ -1,0 +1,50 @@
+
+ids_inittest::testinitgetconfigZ
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpG G("1*†
+2
+InitTest.php"q
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpJ J(
+implicit return*ƒ
+1Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpH H()‡
+„
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpH H(
+%1"__id**
+ids_inittest"
+initwu
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpH H((
+%2*
+
+%12	getconfigu
+s
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpH H((
+$data"__id*
+
+%2‡
+„
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpI I('
+%3"__id**
+ids_inittest"
+init~
+|
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpI I(/
+%4"__id**
+
+%3"
+config˜•
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpI I(7
+%5*
+ids_inittest*
+
+%4*	
+
+$data2assertequals*
+2B
+ids_inittest

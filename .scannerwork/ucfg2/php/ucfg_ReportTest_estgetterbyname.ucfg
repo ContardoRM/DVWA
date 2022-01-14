@@ -1,0 +1,60 @@
+
+ ids_reporttest::testgetterbyname\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php; ;(!"1*Š
+2
+ReportTest.php"s
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php? ?(
+implicit return*Ä	
+1\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php= =(L
+Š
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php= =(,
+%1"__id**
+ids_reporttest"
+report„
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php= =(?
+%2*
+
+%1*	
+key_a2geteventwu
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php= =(J
+%3*
+
+%22getnameœ™
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php= =(K
+%4*
+ids_reporttest*	
+key_a*
+
+%32assertequals
+Š
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php> >(,
+%5"__id**
+ids_reporttest"
+report„
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php> >(?
+%6*
+
+%5*	
+key_b2geteventwu
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php> >(J
+%7*
+
+%62getnameœ™
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php> >(K
+%8*
+ids_reporttest*	
+key_b*
+
+%72assertequals*
+2B
+ids_reporttest

@@ -1,0 +1,103 @@
+
+(htmlpurifier_htmlmodule_hypertext::setupÜ
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php ("1*µ
+2
+Hypertext.php"û
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (
+implicit return*§
+1Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (
+öó
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (
+%1"$Array∑
+¥
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (
+%2"__mapSet*
+
+%1*
+href*
+URI∑¥
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (G
+%3"#htmlpurifier_attrdef_html_linktypes’
+“
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (G
+%4"0htmlpurifier_attrdef_html_linktypes::__construct*
+
+%3*
+relµ
+≤
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (
+%5"__mapSet*
+
+%1*
+rel*
+
+%3∑¥
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (G
+%6"#htmlpurifier_attrdef_html_linktypes’
+“
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (G
+%7"0htmlpurifier_attrdef_html_linktypes::__construct*
+
+%6*
+revµ
+≤
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (
+%8"__mapSet*
+
+%1*
+rev*
+
+%6¯ı
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (	
+%9*%#
+!htmlpurifier_htmlmodule_hypertext*
+a*
+
+Inline*
+
+Inline*
+
+Common*
+
+%12
+addelement†
+ù
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php (	
+$a"__id*
+
+%9õò
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php ()
+%10"$Array∑
+¥
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php ()
+%11"__mapSet*
+
+%10*
+a*
+trueØ
+¨
+Ü
+|/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php ()
+
+$a"
+
+excludes"__id*
+
+%10*
+2:	
+$configB%#
+!htmlpurifier_htmlmodule_hypertext

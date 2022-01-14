@@ -1,0 +1,53 @@
+
+/htmlpurifier_attrdef_html_frametarget::validate‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php ("1*Â
+2‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php+ (mÌÉ
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.phpA (l
+%2*
+	
+$config*
+Attr*
+AllowedFrameTargets2getÚ
+×
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php+ (l9'
+%htmlpurifier_attrdef_html_frametarget"
+valid_values"__id*
+
+%2*
+3*¼
+3‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php (<
+Œ
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php (;
+%3"#htmlpurifier_attrdef_enum::validate*)'
+%htmlpurifier_attrdef_html_frametarget*
+	
+$string*
+	
+$config*
+
+
+$context"–
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php (<
+
+%3*ö
+1‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php ()Ú
+×
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php (
+%1"__id*;*9'
+%htmlpurifier_attrdef_html_frametarget"
+valid_values*
+2
+3:	
+$string:	
+$config:
+
+$contextB)'
+%htmlpurifier_attrdef_html_frametarget

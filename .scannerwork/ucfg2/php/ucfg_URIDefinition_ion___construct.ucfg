@@ -1,0 +1,87 @@
+
+'htmlpurifier_uridefinition::__construct
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php ("1*±
+2
+URIDefinition.php"–
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php   (
+implicit return*Û
+1
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (L²¯
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (J
+%1"&htmlpurifier_urifilter_disableexternalÇ
+Ä
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (J
+%2"3htmlpurifier_urifilter_disableexternal::__construct*
+
+%1Â¿
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (K
+%3*
+htmlpurifier_uridefinition*
+
+%12registerfilter»¸
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (S
+%4"/htmlpurifier_urifilter_disableexternalresourcesÐ
+Í
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (S
+%5"<htmlpurifier_urifilter_disableexternalresources::__construct*
+
+%4Â¿
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (T
+%6*
+htmlpurifier_uridefinition*
+
+%42registerfilter°­
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (H
+%7"$htmlpurifier_urifilter_hostblacklistÅ
+Â
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (H
+%8"1htmlpurifier_urifilter_hostblacklist::__construct*
+
+%7Â¿
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (I
+%9*
+htmlpurifier_uridefinition*
+
+%72registerfilter°­
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (G
+%10"#htmlpurifier_urifilter_makeabsoluteÆ
+Ã
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (G
+%11"0htmlpurifier_urifilter_makeabsolute::__construct*
+
+%10ÄÁ
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (H
+%12*
+htmlpurifier_uridefinition*
+
+%102registerfilter©¦
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (@
+%13"htmlpurifier_urifilter_munge¿
+¼
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (@
+%14")htmlpurifier_urifilter_munge::__construct*
+
+%13ÄÁ
+
+u/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIDefinition.php (A
+%15*
+htmlpurifier_uridefinition*
+
+%132registerfilter*
+2B
+htmlpurifier_uridefinition

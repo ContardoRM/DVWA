@@ -1,0 +1,60 @@
+
+6htmlpurifier_printer_configform::settextareadimensions„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php5 5()"2"4"5*¼
+2„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php6 6(:Ç
+Ä
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php6 6( 
+%1"__id*/*-!
+htmlpurifier_printer_configform"
+fields¯
+¬
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php6 6(+
+%2"__mapGet*
+
+%1*	
+default«
+¨
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php6 6(9
+
+%2"
+cols"__id*	
+
+$cols*
+4
+5*¹
+4„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php7 7(:Ç
+Ä
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php7 7( 
+%3"__id*/*-!
+htmlpurifier_printer_configform"
+fields¯
+¬
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php7 7(+
+%4"__mapGet*
+
+%3*	
+default«
+¨
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php7 7(9
+
+%4"
+rows"__id*	
+
+$rows*
+5*´
+5
+ConfigForm.php"œ
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Printer/ConfigForm.php8 8(
+implicit return:
+$cols:
+$rowsB#!
+htmlpurifier_printer_configform

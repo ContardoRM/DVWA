@@ -1,0 +1,144 @@
+
+#htmlpurifier_htmlmodule_ruby::setupÅ
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php ("1*´
+2
+
+Ruby.php"ô
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (
+implicit return*·
+1Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (ôñ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (
+%1* 
+htmlpurifier_htmlmodule_ruby*
+ruby*
+
+Inline*:8
+6Custom: ((rb, (rt | (rp, rt, rp))) | (rbc, rtc, rtc?))*
+
+Common2
+addelementÌÍ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (A
+%2* 
+htmlpurifier_htmlmodule_ruby*
+rbc*	
+false*
+Required: rb*
+
+Common2
+addelementÌÍ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (A
+%3* 
+htmlpurifier_htmlmodule_ruby*
+rtc*	
+false*
+Required: rt*
+
+Common2
+addelementÊ„
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (@
+%4* 
+htmlpurifier_htmlmodule_ruby*
+rb*	
+false*
+
+Inline*
+
+Common2
+addelementú
+ô
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (@
+$rb"__id*
+
+%4ïí
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (-
+%5"$Array≥
+∞
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (-
+%6"__mapSet*
+
+%5*
+ruby*
+true™
+ß
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (-
+
+$rb"
+
+excludes"__id*
+
+%5ïí
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.phpA (\
+%7"$Array∑
+¥
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.phpA (\
+%8"__mapSet*
+
+%7*
+
+rbspan*
+
+NumberÓÎ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (]
+%9* 
+htmlpurifier_htmlmodule_ruby*
+rt*	
+false*
+
+Inline*
+
+Common*
+
+%72
+addelementú
+ô
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (]
+$rt"__id*
+
+%9ñì
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (-
+%10"$Arrayµ
+≤
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (-
+%11"__mapSet*
+
+%10*
+ruby*
+true´
+®
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (-
+
+$rt"
+
+excludes"__id*
+
+%10ÚÔ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php (E
+%12* 
+htmlpurifier_htmlmodule_ruby*
+rp*	
+false*
+Optional: #PCDATA*
+
+Common2
+addelement*
+2:	
+$configB 
+htmlpurifier_htmlmodule_ruby

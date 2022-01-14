@@ -1,0 +1,94 @@
+
+#htmlpurifier_configschema::addaliasÄ
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpâ â("1*≤
+2
+ConfigSchema.php"ò
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpè è(
+implicit return*ê
+1Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpä ä(òï
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpä ä(
+$obj"stdclass≠
+™
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpä ä(
+%1"stdclass::__construct*
+
+$obj∑
+¥
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpã ã((
+
+$obj"
+	namespace"__id*
+
+$new_namespace≠
+™
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpå å(
+
+$obj"
+name"__id*
+
+	$new_name´
+®
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpç ç(
+
+$obj"	
+isAlias"__id*
+trueª
+∏
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpé é(
+%2"__id*'*%
+htmlpurifier_configschema"
+info∞
+≠
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpé é(
+%3"
+__arrayGet*
+
+%2*
+
+
+$namespaceµ
+≤
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpé é(&
+%4"
+__arraySet*
+
+%3*	
+
+$name*
+
+$objª
+∏
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpé é(
+%5"__id*'*%
+htmlpurifier_configschema"
+info∏
+µ
+Ä
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpé é(
+%6"
+__arraySet*
+
+%5*
+
+
+$namespace*
+
+%3*
+2:
+
+$namespace:
+$name:
+$new_namespace:
+	$new_nameB
+htmlpurifier_configschema

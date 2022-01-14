@@ -1,0 +1,72 @@
+
+!htmlpurifier_doctype::__constructy
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php/ /("1*•
+2
+Doctype.php"ê
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php9 9(
+implicit return*ù
+1y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php2 2($±
+Æ
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php2 2(# 
+htmlpurifier_doctype"
+name"__id*	
+
+$nameØ
+¨
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php3 3("
+htmlpurifier_doctype"
+xml"__id*
+
+$xml∑
+¥
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php4 4(&#
+htmlpurifier_doctype"	
+modules"__id*
+
+
+$modulesø
+º
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php5 5(*'
+htmlpurifier_doctype"
+tidyModules"__id*
+
+$tidyModules∑
+¥
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php6 6(&#
+htmlpurifier_doctype"	
+aliases"__id*
+
+
+$aliasesº
+π
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php7 7()%
+htmlpurifier_doctype"
+	dtdPublic"__id*
+
+$dtd_publicº
+π
+y
+o/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Doctype.php8 8()%
+htmlpurifier_doctype"
+	dtdSystem"__id*
+
+$dtd_system*
+2:
+$name:
+$xml:
+
+$modules:
+$tidyModules:
+
+$aliases:
+$dtd_public:
+$dtd_systemB
+htmlpurifier_doctype

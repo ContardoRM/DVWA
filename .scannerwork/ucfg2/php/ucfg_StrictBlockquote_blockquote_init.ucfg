@@ -1,0 +1,89 @@
+
+,htmlpurifier_childdef_strictblockquote::initå
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpL L("1*é
+2å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpN N(0∏µ
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpN N(/
+%2*
+	
+$config2gethtmldefinition®
+•
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpN N(/
+$def"__id*
+
+%2ÿ
+’
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpP# P(2
+%3"__id*8*6(
+&htmlpurifier_childdef_strictblockquote"
+
+elements›
+⁄
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpP P(2;(
+&htmlpurifier_childdef_strictblockquote"
+real_elements"__id*
+
+%3ø
+º
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpQ# Q(:
+%4"__id**
+
+$def"
+info_content_sets¥
+±
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpQ# Q(B
+%5"__mapGet*
+
+%4*
+Flow›
+⁄
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpQ Q(B;(
+&htmlpurifier_childdef_strictblockquote"
+fake_elements"__id*
+
+%5›
+⁄
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpR R( 
+%6"__id*=*;(
+&htmlpurifier_childdef_strictblockquote"
+fake_elements¡
+æ
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpR R(+
+%7"__mapSet*
+
+%6*	
+#PCDATA*
+true÷
+”
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpS S(2(
+&htmlpurifier_childdef_strictblockquote"
+init"__id*
+true*
+3*¬
+3
+StrictBlockquote.php"§
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpU U(
+implicit return*Ò
+1å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpM M(‘
+—
+å
+Å/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.phpM M(
+%1"__id*4*2(
+&htmlpurifier_childdef_strictblockquote"
+init*
+2
+3:	
+$configB*(
+&htmlpurifier_childdef_strictblockquote

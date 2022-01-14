@@ -1,0 +1,83 @@
+
+ ids_cachingtest::testcachingnone]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php"
+ "("1*å
+2
+CachingTest.php"t
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php% %(
+implicit return*å
+1]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(8ç
+ä
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(
+%1"__id**
+ids_cachingtest"
+initÅ
+
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(
+%2"__id**
+
+%1"
+configá
+Ñ
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(#
+%3"__mapGet*
+
+%2*	
+Cachingë
+é
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(.
+%4"__mapSet*
+
+%3*	
+caching*
+noneç
+ä
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(
+%5"__id**
+ids_cachingtest"
+initÅ
+
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(
+%6"__id**
+
+%5"
+configè
+å
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php# #(#
+%7"__mapSet*
+
+%6*	
+Caching*
+
+%3ç
+ä
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php$- $(8
+%8"__id**
+ids_cachingtest"
+init§
+°
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php$ $(D
+%9"ids_caching::factory*"
+ids_caching*
+
+%8*	
+storageìê
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/CachingTest.php$ $(E
+%10*
+ids_cachingtest*
+
+%92assertfalse*
+2B
+ids_cachingtest

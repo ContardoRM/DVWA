@@ -1,0 +1,119 @@
+
+*ids_inittest::testinitsetconfignooverwriteZ
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpA A()"1*Ü
+2
+InitTest.php"q
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpE E(
+implicit return*»
+1Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB B(Xá
+Ñ
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB B(
+%1"__id**
+ids_inittest"
+initlj
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB B(P
+%2"$Arraylj
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB2 B(O
+%3"$Arrayë
+é
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB2 B(O
+%4"__mapSet*
+
+%3*
+filter_type*
+xmlå
+â
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB B(P
+%5"__mapSet*
+
+%2*	
+General*
+
+%3äá
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpB B(W
+%6*
+
+%1*
+
+%2*
+true2	setconfigá
+Ñ
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpC C(
+%7"__id**
+ids_inittest"
+initlj
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpC C(Q
+%8"$Arraylj
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpC2 C(P
+%9"$Arrayì
+ê
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpC2 C(P
+%10"__mapSet*
+
+%9*
+filter_type*
+jsonç
+ä
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpC C(Q
+%11"__mapSet*
+
+%8*	
+General*
+
+%9Ä~
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpC C(R
+%12*
+
+%7*
+
+%82	setconfigà
+Ö
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpD D('
+%13"__id**
+ids_inittest"
+initÄ
+~
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpD D(/
+%14"__id**
+
+%13"
+configÜ
+É
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpD D(:
+%15"__mapGet*
+
+%14*	
+Generalä
+á
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpD D(I
+%16"__mapGet*
+
+%15*
+filter_typeòï
+Z
+P/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/InitTest.phpD D(Q
+%17*
+ids_inittest*
+
+%16*
+xml2assertequals*
+2B
+ids_inittest

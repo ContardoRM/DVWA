@@ -1,0 +1,38 @@
+
+)htmlpurifier_attrdef_integer::__constructÅ
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/Integer.php! !("1*Æ
+2
+Integer.php"ô
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/Integer.php' '(
+implicit return*Î
+1Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/Integer.php$ $($ 
+«
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/Integer.php$ $(#,
+htmlpurifier_attrdef_integer"
+
+negative"__id*
+
+	$negative¬
+ø
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/Integer.php% %((
+htmlpurifier_attrdef_integer"
+zero"__id*	
+
+$zero 
+«
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/AttrDef/Integer.php& &(#,
+htmlpurifier_attrdef_integer"
+
+positive"__id*
+
+	$positive*
+2:
+	$negative:
+$zero:
+	$positiveB 
+htmlpurifier_attrdef_integer

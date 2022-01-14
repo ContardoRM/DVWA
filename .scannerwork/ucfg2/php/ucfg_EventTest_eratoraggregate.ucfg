@@ -1,0 +1,45 @@
+
+$ids_eventtest::testiteratoraggregate[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpH H(&"1*ˆ
+2
+EventTest.php"r
+[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpL L(
+implicit return*É
+1[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpJ J(7Š
+‡
+[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpJ) J(5
+%1"__id**
+ids_eventtest"
+event¤¡
+[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpJ J(6
+%2*
+ids_eventtest*
+IteratorAggregate*
+
+%12
+asserttypeŠ
+‡
+[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpK) K(5
+%3"__id**
+ids_eventtest"
+eventzx
+[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpK) K(D
+%4*
+
+%32getiterator¤¡
+[
+Q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/EventTest.phpK K(E
+%5*
+ids_eventtest*
+IteratorAggregate*
+
+%42
+asserttype*
+2B
+ids_eventtest

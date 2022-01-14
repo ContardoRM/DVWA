@@ -1,0 +1,53 @@
+
+!ids_caching_database::__construct`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpq q("1*å
+2
+Database.php"w
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpw w(
+implicit return*„
+1`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpt t(ò
+ï
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpt t( 
+ids_caching_database"
+type"__id*	
+
+$typeà
+Ö
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpu u(%
+%1"__id**
+
+$init"
+configä
+á
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpu u(0
+%2"__mapGet*
+
+%1*	
+Cachingó
+î
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpu u(0"
+ids_caching_database"
+config"__id*
+
+%2èå
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpv v()
+%3*
+ids_caching_database2_connectó
+î
+`
+V/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/Caching/Database.phpv v()"
+ids_caching_database"
+handle"__id*
+
+%3*
+2:
+$type:
+$initB
+ids_caching_database

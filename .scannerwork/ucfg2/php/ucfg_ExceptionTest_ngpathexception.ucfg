@@ -1,0 +1,36 @@
+
+3ids_exceptiontest::testinitconfigwrongpathexception_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.phpY Y(4"1*ê
+2
+ExceptionTest.php"v
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.php\ \(
+implicit return*˙
+1_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.phpZ Z(1¶£
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.phpZ Z(0
+%1*
+ids_exceptiontest*
+	Exception2setexpectedexception©
+¶
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.php[ [(I
+%2"ids_init::init*"
+
+ids_init*
+IDS/Config/Config.ini.wrongóî
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.php[K [(h
+%3*
+ids_exceptiontest2getexpectedexceptionüú
+_
+U/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ExceptionTest.php[ [(i
+%4*
+ids_exceptiontest*
+
+%2*
+
+%32assertequals*
+2B
+ids_exceptiontest

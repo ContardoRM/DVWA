@@ -1,0 +1,43 @@
+
+7htmlpurifier_urifilter_disableexternalresources::filter•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php ("1*À
+2•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php1 (="¢
+•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php1 (=
+true*ì
+3•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php (7«
+¨
+•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php (6
+%2".htmlpurifier_urifilter_disableexternal::filter*31
+/htmlpurifier_urifilter_disableexternalresources*
+
+$uri*
+	
+$config*
+
+
+$context" 
+•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php (7
+
+%2*õ
+1•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php (/ÏÌ
+•
+Š/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php (/
+%1*
+
+
+$context*
+EmbeddedURI*
+true2get*
+2
+3:
+$uri:	
+$config:
+
+$contextB31
+/htmlpurifier_urifilter_disableexternalresources

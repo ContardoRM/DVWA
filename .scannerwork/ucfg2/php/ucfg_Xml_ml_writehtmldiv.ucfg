@@ -1,0 +1,59 @@
+
+3htmlpurifier_configschema_builder_xml::writehtmldiv‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (#"1*´
+2	
+Xml.php"£
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (
+implicit return*ü
+1‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (#ÙÖ
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php ("
+%1*)'
+%htmlpurifier_configschema_builder_xml*
+div2startelementÄ
+Á
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (/
+%2"htmlpurifier::getinstance*"
+htmlpurifier¬
+©
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (/
+	$purifier"__id*
+
+%2¹¶
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php ((
+%3*
+
+	$purifier*	
+
+$html2purify¨
+¥
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php ((
+$html"__id*
+
+%3ÿü
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (F
+%4*)'
+%htmlpurifier_configschema_builder_xml*	
+xmlns* 
+http://www.w3.org/1999/xhtml2writeattribute×Ô
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (
+%5*)'
+%htmlpurifier_configschema_builder_xml*	
+
+$html2writerawÎË
+‹
+€/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php (
+%6*)'
+%htmlpurifier_configschema_builder_xml2
+endelement*
+2:
+$htmlB)'
+%htmlpurifier_configschema_builder_xml

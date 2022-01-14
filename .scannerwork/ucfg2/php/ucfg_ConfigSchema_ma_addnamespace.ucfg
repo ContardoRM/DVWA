@@ -1,0 +1,57 @@
+
+'htmlpurifier_configschema::addnamespace~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.php_ _( "1*¯
+2
+ConfigSchema.php"•
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpb b(
+implicit return*š	
+1~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.php` `(*‘Ž
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.php`" `()
+%1"$Array¸
+µ
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.php` `(
+%2"__id*'*%
+htmlpurifier_configschema"
+infoµ
+²
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.php` `(
+%3"
+__arraySet*
+
+%2*
+
+
+$namespace*
+
+%1‘Ž
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpa& a(-
+%4"$Array¼
+¹
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpa a(
+%5"__id*+*)
+htmlpurifier_configschema"
+
+defaultsµ
+²
+~
+t/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ConfigSchema.phpa a(#
+%6"
+__arraySet*
+
+%5*
+
+
+$namespace*
+
+%4*
+2:
+
+$namespaceB
+htmlpurifier_configschema

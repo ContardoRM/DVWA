@@ -1,0 +1,45 @@
+
+%ids_reporttest::testiteratoraggregate\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.phpY Y(&"1*ä
+2
+ReportTest.php"s
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php] ](
+implicit return*’
+1\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php[ [(8ç
+ä
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php[) [(6
+%1"__id**
+ids_reporttest"
+report¶£
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php[ [(7
+%2*
+ids_reporttest*
+IteratorAggregate*
+
+%12
+asserttypeç
+ä
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php\) \(6
+%3"__id**
+ids_reporttest"
+report{y
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php\) \(E
+%4*
+
+%32getiterator¶£
+\
+R/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/ReportTest.php\ \(F
+%5*
+ids_reporttest*
+IteratorAggregate*
+
+%42
+asserttype*
+2B
+ids_reporttest

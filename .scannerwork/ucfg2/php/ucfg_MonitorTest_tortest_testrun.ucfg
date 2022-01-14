@@ -1,0 +1,88 @@
+
+ids_monitortest::testrun]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpE E("1*å
+2
+MonitorTest.php"t
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpP P(
+implicit return*©
+1]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpF L(
+om
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpG J(
+%1"$Arrayß
+§
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpG J(
+%2"__mapSet*
+
+%1*
+id*#!
+9<script/src=http/attacker.com>«
+ƒ
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpG J(
+%3"__mapSet*
+
+%1*
+name*A?
+=" style="-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="ç
+ä
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpK K(
+%4"__id**
+ids_monitortest"
+initwu
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpF L(	
+$test"ids_monitorù
+ö
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpF L(	
+%5"ids_monitor::__construct*	
+
+$test*
+
+%1*
+
+%4wu
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpM M(
+%6*	
+
+$test2runz
+x
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpM M(	
+$result"__id*
+
+%6áÑ
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpN N(1
+%7*
+	
+$result*
+id2haseventëé
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpN N(2
+%8*
+ids_monitortest*
+
+%72
+asserttrueâÜ
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpO O(3
+%9*
+	
+$result*
+name2haseventíè
+]
+S/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/tests/IDS/MonitorTest.phpO O(4
+%10*
+ids_monitortest*
+
+%92
+asserttrue*
+2B
+ids_monitortest

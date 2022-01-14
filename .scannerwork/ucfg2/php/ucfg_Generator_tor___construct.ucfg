@@ -1,0 +1,93 @@
+
+#htmlpurifier_generator::__construct{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php+ +("1*©
+2
+Generator.php"í
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php1 1(
+implicit return*ª
+1{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php, ,( π
+∂
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php, ,($
+htmlpurifier_generator"
+config"__id*
+	
+$configøº
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php- -(K
+%1*
+	
+$config*
+
+Output*
+CommentScriptContents2get∏
+µ
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php- -(K(
+htmlpurifier_generator"
+
+_scriptFix"__id*
+
+%1≤Ø
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php. .(=
+%2*
+	
+$config*
+
+Output*
+
+SortAttr2get∑
+¥
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php. .(='
+htmlpurifier_generator"
+	_sortAttr"__id*
+
+%2¶£
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php/ /(2
+%3*
+	
+$config2gethtmldefinition≤
+Ø
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php/ /(2"
+htmlpurifier_generator"
+_def"__id*
+
+%3≤
+Ø
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php0 0(#
+%4"__id*$*"
+htmlpurifier_generator"
+_def°
+û
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php0 0(,
+%5"__id**
+
+%4"	
+doctypeù
+ö
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php0 0(1
+%6"__id**
+
+%5"
+xml¥
+±
+{
+q/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/Generator.php0 0(1$
+htmlpurifier_generator"
+_xhtml"__id*
+
+%6*
+2:	
+$config:
+
+$contextB
+htmlpurifier_generator

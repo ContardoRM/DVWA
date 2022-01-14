@@ -1,0 +1,8 @@
+organization=contardorm
+projectKey=TestPOC
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.26045
+branch=release
+dashboardUrl=https://sonarcloud.io/dashboard?id=TestPOC&branch=release&resolved=false
+ceTaskId=AX5ZUtrJopgKo-ZQMXs8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX5ZUtrJopgKo-ZQMXs8

@@ -1,0 +1,73 @@
+
+,htmlpurifier_childdef_chameleon::__construct„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php ("1*³
+2
+Chameleon.php"œ
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php# #(
+implicit return*õ
+1„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php   (D°­
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php   (C
+%1"htmlpurifier_childdef_optionalÒ
+Ï
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php   (C
+%2"+htmlpurifier_childdef_optional::__construct*
+
+%1*
+	
+$inlineÇ
+Ä
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php   (C-!
+htmlpurifier_childdef_chameleon"
+inline"__id*
+
+%1°­
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php! !(B
+%3"htmlpurifier_childdef_optionalÑ
+Î
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php! !(B
+%4"+htmlpurifier_childdef_optional::__construct*
+
+%3*
+
+
+$blockÆ
+Ã
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php! !(B,!
+htmlpurifier_childdef_chameleon"
+block"__id*
+
+%3Æ
+Ã
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php" "(&
+%5"__id*.*,!
+htmlpurifier_childdef_chameleon"
+block¬
+©
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php" "(0
+%6"__id**
+
+%5"
+
+elementsÉ
+Æ
+„
+z/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php" "(0/!
+htmlpurifier_childdef_chameleon"
+
+elements"__id*
+
+%6*
+2:	
+$inline:
+$blockB#!
+htmlpurifier_childdef_chameleon

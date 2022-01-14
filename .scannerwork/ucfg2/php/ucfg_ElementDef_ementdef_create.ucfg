@@ -1,0 +1,46 @@
+
+htmlpurifier_elementdef::create|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.php` `(!"1*Ž	
+1|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpa a(-¢Ÿ
+|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpa a(,
+$def"htmlpurifier_elementdef·
+´
+|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpa a(,
+%1"$htmlpurifier_elementdef::__construct*
+
+$def¶
+³
+|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpb b(,
+
+$def"
+content_model"__id*
+
+$content_modelÀ
+½
+|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpc c(6
+
+$def"
+content_model_type"__id*
+
+$content_model_type¤
+¡
+|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpd d(
+
+$def"
+attr"__id*	
+
+$attr"ˆ
+|
+r/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/ElementDef.phpe e(
+
+$def:
+$content_model:
+$content_model_type:
+$attrB
+htmlpurifier_elementdef

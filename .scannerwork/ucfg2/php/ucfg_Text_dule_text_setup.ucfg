@@ -1,0 +1,345 @@
+
+#htmlpurifier_htmlmodule_text::setupÅ
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php ("1*´
+2
+
+Text.php"ô
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php; ;(
+implicit return*–7
+1Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (CÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (B
+%1* 
+htmlpurifier_htmlmodule_text*
+abbr*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÏÈ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (B
+%2* 
+htmlpurifier_htmlmodule_text*	
+acronym*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (B
+%3* 
+htmlpurifier_htmlmodule_text*
+cite*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (B
+%4* 
+htmlpurifier_htmlmodule_text*
+code*
+
+Inline*
+
+Inline*
+
+Common2
+addelementËÂ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (B
+%5* 
+htmlpurifier_htmlmodule_text*
+dfn*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÁ‰
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php (B
+%6* 
+htmlpurifier_htmlmodule_text*
+em*
+
+Inline*
+
+Inline*
+
+Common2
+addelementËÂ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php   (B
+%7* 
+htmlpurifier_htmlmodule_text*
+kbd*
+
+Inline*
+
+Inline*
+
+Common2
+addelementïí
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php!C !(Y
+%8"$Array≤
+Ø
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php!C !(Y
+%9"__mapSet*
+
+%8*
+cite*
+URIÔÏ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php! !(Z
+%10* 
+htmlpurifier_htmlmodule_text*
+q*
+
+Inline*
+
+Inline*
+
+Common*
+
+%82
+addelementÍÁ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php" "(B
+%11* 
+htmlpurifier_htmlmodule_text*
+samp*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÏÈ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php# #(B
+%12* 
+htmlpurifier_htmlmodule_text*
+
+strong*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php$ $(B
+%13* 
+htmlpurifier_htmlmodule_text*
+var*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÍÁ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php' '(?
+%14* 
+htmlpurifier_htmlmodule_text*
+span*
+
+Inline*
+
+Inline*
+
+Common2
+addelementÂ‚
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php( ((=
+%15* 
+htmlpurifier_htmlmodule_text*
+br*
+
+Inline*	
+Empty*
+Core2
+addelementÏÈ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php+ +(E
+%16* 
+htmlpurifier_htmlmodule_text*	
+address*	
+Block*
+
+Inline*
+
+Common2
+addelementñì
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php,` ,(v
+%17"$Array¥
+±
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php,` ,(v
+%18"__mapSet*
+
+%17*
+cite*
+URIíè
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php, ,(x
+%19* 
+htmlpurifier_htmlmodule_text*
+
+blockquote*	
+Block*$"
+ Optional: Heading | Block | List*
+
+Common*
+
+%172
+addelementËÂ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php- -(D
+%20* 
+htmlpurifier_htmlmodule_text*
+pre*	
+Block*
+
+Inline*
+
+Common2
+addelementû
+õ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php- -(D
+$pre"__id*
+
+%20âÜ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php. /(K
+%21* 
+htmlpurifier_htmlmodule_text*
+img*
+big*	
+small*
+
+object*
+
+applet*
+font*
+
+basefont2
+makelookup¨
+©
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php. /(K
+
+$pre"
+
+excludes"__id*
+
+%21ÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php0 0(>
+%22* 
+htmlpurifier_htmlmodule_text*
+h1*	
+Heading*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php1 1(>
+%23* 
+htmlpurifier_htmlmodule_text*
+h2*	
+Heading*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php2 2(>
+%24* 
+htmlpurifier_htmlmodule_text*
+h3*	
+Heading*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php3 3(>
+%25* 
+htmlpurifier_htmlmodule_text*
+h4*	
+Heading*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php4 4(>
+%26* 
+htmlpurifier_htmlmodule_text*
+h5*	
+Heading*
+
+Inline*
+
+Common2
+addelementÈÊ
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php5 5(>
+%27* 
+htmlpurifier_htmlmodule_text*
+h6*	
+Heading*
+
+Inline*
+
+Common2
+addelementÊ„
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php8 8(;
+%28* 
+htmlpurifier_htmlmodule_text*
+p*	
+Block*
+
+Inline*
+
+Common2
+addelementÊ„
+Å
+w/Users/contardoacuna/repositorio/DVWA/external/phpids/0.6/lib/IDS/vendors/htmlpurifier/HTMLPurifier/HTMLModule/Text.php9 9(;
+%29* 
+htmlpurifier_htmlmodule_text*
+div*	
+Block*
+Flow*
+
+Common2
+addelement*
+2:	
+$configB 
+htmlpurifier_htmlmodule_text
