@@ -8,7 +8,7 @@ node ('slave_aws') {
         
     }
     stage('Test Unitarios') {
-        sh 'echo "Tests passed Hola mundo"'
+        sh 'echo "Tests passed Hola mundo Revisando la carga de datos"'
     }
     stage('Analisis de Codigo con Sonar') {
 //        sh '$sonar_slave/sonar-scanner -Dsonar.projectKey=CAMILA -Dsonar.source=. -D sonar.login=ccfc56a1958421dcd3580fd1733942d1b66546c4 -Dproject.settings=./sonar-project.properties'
